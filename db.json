@@ -186,5 +186,12 @@
     },
     "singIn": {
       "token": "5/f3N1ie6TGKH3+HAkjAqFsYJuuvBaH2/EdukgT7NPk="
+    },
+    "badges": {
+       "badges":[
+         {"id":"0", "name":"Rookie"},
+         {"id":"1", "name":"Liker"},
+         {"id":"2", "name":"Watcher"}
+       ]   
     }
 }
