@@ -32,6 +32,13 @@
             "actions": {
               "like": false,
               "share": true
+            },
+            "event": {
+              "id": "0",
+              "date": "11/12/2021",
+              "time": "15:00",
+              "place": "Rua Coronel Luiz David de Sousa 72",
+              "responsible": "Caio Orleans"
             }
         },
         {
@@ -66,6 +73,13 @@
             "actions": {
               "like": true,
               "share": true
+            },
+            "event": {
+              "id": "1",
+              "date": "11/12/2021",
+              "time": "17:00",
+              "place": "UFC - Campus do Pici - RU",
+              "responsible": "Joao Felipe"
             }
         }
     ],
