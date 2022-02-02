@@ -111,8 +111,8 @@
             "image": "rookie"
             }
         ],
-  "isFirstLogin": false,
-  "userType": "common"
+	  "isFirstLogin": false,
+	  "userType": "shelter"
 },
 	"conquests": [{
 			"id": 0,
