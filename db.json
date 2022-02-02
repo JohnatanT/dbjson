@@ -97,20 +97,20 @@
 			}
 		]
 	},
-	{
-  "name": "João Batista",
-  "email": "joao@email.com",
-  "password": "123456",
-  "urlImage": "",
-  "points": 0,
-  "events": [],
-  "badges": [
-    {
-      "name": "Rookie",
-      "description": "Seu primeiro prêmio. Por fazer parte da família PetGoals! Obrigado!",
-      "image": "rookie"
-    }
-  ],
+	"profile": {
+        "name": "João Batista",
+        "email": "joao@email.com",
+        "password": "123456",
+        "urlImage": "",
+        "points": 0,
+        "events": [],
+        "badges": [
+            {
+            "name": "Rookie",
+            "description": "Seu primeiro prêmio. Por fazer parte da família PetGoals! Obrigado!",
+            "image": "rookie"
+            }
+        ],
   "isFirstLogin": false,
   "userType": "common"
 },
